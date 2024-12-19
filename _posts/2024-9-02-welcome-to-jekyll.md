@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to 601!
-subtitle: 吕成鑫梦幻世界.
+subtitle: 探索未知，求真务实；勇攀高峰，追求卓越.
 author: Jeffrey
 categories: jekyll
 banner:
@@ -16,58 +16,15 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: CapsNets SOD COD
+tags: 
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### 601实验室
+在601实验室，我们秉承科学精神，以探索未知为使命，以求真务实为根基。我们相信，每一次发现都源于坚持不懈的努力，每一项创新都离不开脚踏实地的求索。在不断攀登科学高峰的过程中，我们追求的不仅是卓越的学术成果，更是为社会和技术进步贡献智慧与力量。未来，我们将继续保持好奇心与进取心，勇敢面对挑战，为推动知识的边界而不懈奋斗。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-## section 1
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight lcx %}
-"吕成鑫"
-"男"
-177cm
-CVPR2025, AAAI2024
-{% endhighlight %}
-
-## section 2
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-
-$ a \* b = c ^ b $
-
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
